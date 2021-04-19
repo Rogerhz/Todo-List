@@ -11,3 +11,15 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+.lista{
+    display: flex;
+    flex-flow: column nowrap;
+    background-color: lightgray;
+    width:44rem ;
+    border: 1px;
+    border-radius: 1.5px;
+}
+li{
+    list-style: none;
+    text-align: left;
+}
